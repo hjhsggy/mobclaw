@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MobClaw Test</string>
+    <string name="provider_settings">Provider Settings</string>
+    <string name="execute_task">Execute Task</string>
+    <string name="executing">Executing...</string>
+    <string name="results_will_appear_here">Results will appear here...</string>
+    <string name="enter_task">Enter a task</string>
+    <string name="enable_accessibility_service_first">Enable MobClaw accessibility service first</string>
+    <string name="grant_overlay_permission_first">Grant overlay permission first</string>
+    <string name="configure_provider_first">Please configure and enable a provider in Settings first</string>
+    <string name="invalid_provider_configuration">Provider configuration is invalid. Please check Settings.</string>
+    <string name="open_accessibility_settings">Open Accessibility Settings</string>
+    <string name="grant_overlay_permission">Grant Overlay Permission</string>
+    <string name="enabled_provider">Enabled Provider: %s</string>
+    <string name="no_provider_configured">No provider configured. Open Settings to configure and enable a provider.</string>
+    <string name="configure">Configure</string>
+    <string name="save_configuration">Save Configuration</string>
+    <string name="api_key">API Key</string>
+    <string name="model">Model</string>
+    <string name="base_url">Base URL</string>
+    <string name="not_set">Not set</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="configure_your_llm_providers">Configure your LLM providers. Select one provider to enable it.</string>
+</resources>
